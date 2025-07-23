@@ -24,7 +24,7 @@ conn.close()
 # Step 2: Set up LLM and SQL database
 llm = ChatGoogleGenerativeAI(
     model="gemini-1.5-flash",
-    google_api_key="AIzaSyDrJ8NCU5fRKSfErgR-Gt1ym1E8hC-AHeQ",
+    google_api_key="AIz******************************************Q",
     temperature=0
 )
 
