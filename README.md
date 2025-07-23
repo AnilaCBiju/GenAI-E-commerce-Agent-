@@ -28,7 +28,7 @@ An AI-powered agent that answers natural language questions on e-commerce datase
         pip install -r requirements.txt
 
 ## Run the server
-   ```bash
+  
       uvicorn main:app --reload
 The app will be live at: http://127.0.0.1:8000
 
