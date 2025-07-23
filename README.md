@@ -33,6 +33,6 @@ An AI-powered agent that answers natural language questions on e-commerce datase
 The app will be live at: http://127.0.0.1:8000
 
 
-LLM Used:Gemini 1.5 Flash from Google AI Studio
+LLM Used:Gemini 2.5 Flash from Google AI Studio
 Make sure to add your API key inside main.py under google_api_key="..."
 
